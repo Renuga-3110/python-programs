@@ -1,0 +1,5 @@
+ a=int(input("enter a number"))
+ b=a*a
+ c=a*a*a
+ print("square of a number",b)
+ print("cube of a number",c)

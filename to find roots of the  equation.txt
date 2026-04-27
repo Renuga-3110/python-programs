@@ -1,0 +1,8 @@
+ import math
+ a=int(input("enter the a:"))
+ b=int(input("enter the b:"))
+ c=int(input("enter the c:"))
+ d=math.sqrt(b*b)-(4*a*c)
+ r1=(-b+d)/(2*a)
+ r2=(-b-d)/(2*a)
+ print("roots are:",r1,r2)
