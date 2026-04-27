@@ -1,0 +1,9 @@
+ sub1=float(input("enter mark for eng:"))
+ sub2=float(input("enter mark for maths:"))
+ sub3=float(input("enter mark for physics:"))
+ sub4=float(input("enter mark for chemistry:"))
+ sub5=float(input("enter mark for python:"))
+ total=sub1+sub2+sub3+sub4+sub5
+ percentage=(total/500)*100
+ print("total marks:",total)
+ print("percentage :",percentage)

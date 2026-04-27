@@ -1,0 +1,5 @@
+kg=float(input("enter weigth in kilograms:"))
+pounds=kg*2.20
+tonnes=kg*0.001
+print("weight in pounds:",pounds)
+print("weight in tonnes:",tonnes)
